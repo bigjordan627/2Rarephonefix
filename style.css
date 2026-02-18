@@ -1,0 +1,221 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+
+#root{
+  width :100%;
+  height :80rem;
+  background-color :white;
+  position:;
+}
+
+.navbar container {
+  width : 100%;
+  height : 10rem;
+  display :flex;
+  background-color :purple;
+}
+
+.container {
+  width : 100%;
+  height :2rem;
+  display : flex;
+  gap: 17rem;
+  border :solid 0.05rem black;
+  justify content : center;
+}
+
+a{
+  text-decoration : none;
+  color : green;
+  margin-left :0.21rem;
+}
+
+.email-icon{
+  margin-top :0.21rem;
+  color :green;
+}
+
+#content{
+  width : 100%;
+  height : 30rem;
+  border : solid 0.05rem black;
+  justify-content : center;
+}
+
+.p5Canvas{
+  background-image :url(/IMG_3724.jpeg);
+  background-size : 18rem;
+  background-position:center;
+  width : 13rem;
+  height : 13rem;
+  margin-left: 25%;
+  margin-top:1rem;
+  border-radius:200px;
+}
+
+.info-list {
+  margin-top: 7rem;
+  width:100%;
+  height:12rem;
+  justify-content:center;
+}
+
+.info-list-section{
+  width :15rem;
+  height :7rem;
+  margin-top:5rem;
+  margin-left:5rem;
+  text-align:center;
+}
+
+.contactme{
+  padding-top: 20px;
+  width:100%;
+  height:65px;
+  border:solid 0.05rem black;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.whatsapp{
+  width :35px;
+  height :35px;
+  margin-left: 60px;
+  margin-right: 60px;
+  background-image:url(/IMG_5396.png);
+  background-position:center;
+  background-size:50px;
+  border-radius:100px;
+}
+
+.instagram{
+  width:35px;
+  height:35px;
+  background-image:url(/IMG_5397.jpeg);
+  background-position:center;
+  background-size:40px;
+  border-radius:100px;
+}
+
+.pic-grid{
+  width:100%;
+  height:35rem;
+  justify-content: center;
+  display:flex;
+  border: solid 0.05 black;
+  margin-bottom:3rem;
+}
+
+.grid-one{
+  width: 20rem;
+  height: 35rem;
+  padding-top:13rem;
+}
+
+.grid-two{
+  width: 20rem;
+  height: 35rem;
+  padding-top:08rem;
+}
+
+.grid-three{
+  width: 20rem;
+  height: 35rem;
+  padding-top:13rem;
+}
+
+.pic1{
+  width:8rem;
+  height:8rem;
+  background-color:white;
+  background-image:url(/IMG_5430.jpeg);
+  background-size:120px;
+  background-position:center;
+  border-radius:100px;
+   border:solid 0.05rem black;
+}
+
+.pic2{
+  width:8rem;
+  height:8rem;
+  background-color:white;
+  margin-top:5rem;
+  background-image:url(/IMG_5431.jpeg);
+  background-size:120px;
+  background-position:center;
+  border-radius:100px;
+   border:solid 0.05rem black;
+}
+
+.pic3{
+  width:8rem;
+  height:8rem;
+   background-color:white;
+   background-image:url(/IMG_4990.jpeg);
+  background-size:120px;
+  background-position:center;
+  border-radius:100px;
+   border:solid 0.05rem black;
+}
+
+.pic4{
+  width:8rem;
+  height:8rem;
+   background-color:white;
+   margin-top:5rem;
+   background-image:url(/IMG_5005.png);
+  background-size:120px;
+  background-position:center;
+  border-radius:100px;
+   border:solid 0.05rem black;
+}
+
+.pic5{
+  width:8rem;
+  height:8rem;
+   background-color:white;
+   background-image:url(/IMG_4523.jpeg);
+  background-size:120px;
+  background-position:center;
+  border-radius:100px;
+   border:solid 0.05rem black;
+}
+
+.pic6{
+  width:8rem;
+  height:8rem;
+   background-color:white;
+   margin-top:5rem;
+   background-image:url(/IMG_5432.jpeg);
+  background-size:120px;
+  background-position:center;
+  border-radius:100px;
+  border:solid 0.05rem black;
+}
+
+
+.footer{
+  width:100%;
+  height: 6rem;
+  text-align: center ;
+  position:;
+  padding-top: 5rem;
+  border:solid 0.05rem black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
